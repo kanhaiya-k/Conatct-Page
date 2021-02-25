@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <title>Kanhaiya's Personal webpage </title>
+</head>
+<body>
+    <img src="http://127webservices.online/images/img_3.jpg" alt="Kanhaiya's Image" style="width: 10%; height: 7%;" >
+    <h1>Kanhaiya Kumar</h1>
+    <p><i>Founder and Ceo of <strong> <a style="color: lightcoral;" href="http://127webservices.online/">127Webservices</a></strong></i></p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. soluta culpa ipsa maiores neque quidem.</p>
+    <hr size="5" color="black">
+    <h3>Eductaion</h3>
+    <ul>
+        <li>Mount carmel</li>
+        <li>LNCT</li>
+    </ul>
+    <ol>
+        <li>Lnct Indore </li>
+        <li>B.tech</li>
+    </ol>
+    <table>
+        <tr>
+            <td>Kanhaiya</td>
+            <td>age-21</td>
+            <td>sex:- Male</td>
+        </tr>
+        <tr>
+            <td>Kanhaiya</td>
+            <td>age-21</td>
+            <td>sex:- Male</td>
+        </tr>
+    </table>
+    <hr size="7" noshade="">
+    <table cellspacing="10">
+        <tr>
+            <td><img src="http://127webservices.online/images/img_3.jpg" alt="Kanhaiya's Image" style="width: 200px; height: 250px;" ></td>
+            
+            <td><h1>Kanhaiya Kumar</h1>
+                <p><i>Founder and Ceo of <strong> <a style="color: lightcoral;" href="http://127webservices.online/">127Webservices</a></strong></i></p>
+                <p>Lorem ipsum dolor sit amet consectetur sequatur sunt, error at soluta culpa ipsa maiores neque quidem.</p></td>
+        </tr>
+    </table>
+    <hr size="20"noshade>
+    <!---creating a table to mention the skill with star emoji rater -->
+
+    <h2>Skills</h2>
+
+    <table border="10px">
+        <tr>
+            <td>HTML</td>
+            <td>⭐⭐⭐⭐⭐</td>
+        </tr>
+        <tr>
+            <td>JS</td>
+            <td>⭐⭐</td>
+        </tr>
+        <tr>
+            <td>CSS</td>
+            <td>⭐⭐⭐⭐</td>
+        </tr>
+        <tr>
+            <td>Language</td>
+            <td>⭐⭐⭐⭐</td>
+        </tr>
+    </table>
+    <a href="file:///C:/Users/Kanhaiya/Git_you/user_1/we.html">Conatct me</a>
+</body>
+</html>
